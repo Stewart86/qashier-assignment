@@ -10,6 +10,19 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+## Serving Web App using Docker
+
+Give permission to run bash script
+
+```sh
+chmod +x start.sh
+```
+
+run script
+```sh
+./start.sh
+```
+
 ## Project Setup
 
 ```sh
